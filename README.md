@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 2249809949@qq.com
+- 📫 Jarvis_Lao@foxmail.com
 
 <!---
 Enj0y2001/Enj0y2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
